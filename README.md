@@ -18,6 +18,10 @@
 
 > Upload any PDF document — company reports, research papers, legal policies, manuals — and instantly get AI-generated answers from the content using Claude AI and semantic vector search.
 
+<br/>
+
+![DocDiscovery UI Screenshot](https://www.loom.com/i/7f4e18e448ba44d6baf2541f911187fc)
+
 </div>
 
 ---
